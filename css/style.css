@@ -1,0 +1,25 @@
+.my-nav {
+  background: lightblue;
+}
+
+.my-nav ul {
+  margin: 10px 0;
+}
+
+body {
+  padding-top: 70px;
+}
+
+hr.bar {
+  border: 2px solid lightblue;
+  width: 80px;
+}
+
+.my-project {
+  padding: 15px;
+}
+
+#about, #my-work, #contact-me {
+  padding-top: 78px;
+  margin-top: -78px;
+}
